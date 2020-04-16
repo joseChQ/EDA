@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/amadeus/Documents/2020-1/EDA/lab/persistence/source/DirectedGraph.hpp
+cstddef
+-
+iostream
+-
+
+/home/amadeus/Documents/2020-1/EDA/lab/persistence/source/PartialDirectedGraph.hpp
+utility
+-
+DirectedGraph.hpp
+/home/amadeus/Documents/2020-1/EDA/lab/persistence/source/DirectedGraph.hpp
+vector
+-
+utility
+-
+
+/home/amadeus/Documents/2020-1/EDA/lab/persistence/source/main.cpp
+cassert
+-
+exception
+-
+iostream
+-
+memory
+-
+vector
+-
+DirectedGraph.hpp
+/home/amadeus/Documents/2020-1/EDA/lab/persistence/source/DirectedGraph.hpp
+PartialDirectedGraph.hpp
+/home/amadeus/Documents/2020-1/EDA/lab/persistence/source/PartialDirectedGraph.hpp
+

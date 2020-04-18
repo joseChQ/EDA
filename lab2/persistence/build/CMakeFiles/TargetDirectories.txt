@@ -1,0 +1,3 @@
+/home/josec/Desktop/2020-1/EDA/persistence/build/CMakeFiles/rebuild_cache.dir
+/home/josec/Desktop/2020-1/EDA/persistence/build/CMakeFiles/persistence.dir
+/home/josec/Desktop/2020-1/EDA/persistence/build/CMakeFiles/edit_cache.dir

@@ -1,0 +1,8 @@
+﻿  DirectedGraph.cpp
+  van.cpp
+D:\2020-1\eda\lab\van\van\van.cpp(13,43): error C2661: 'ADE::DirectedGraph<int,ADE::Node<Type>>::DirectedGraph': ninguna función sobrecargada acepta 2 argumentos
+          with
+          [
+              Type=int
+          ]
+  Generando código...
